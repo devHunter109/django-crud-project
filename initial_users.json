@@ -1,0 +1,26 @@
+[
+    {
+        "model": "crudapp.user",
+        "pk": 1,
+        "fields": {
+            "username": "alice",
+            "email": "alice@example.com"
+        }
+    },
+    {
+        "model": "crudapp.user",
+        "pk": 2,
+        "fields": {
+            "username": "bob",
+            "email": "bob@example.com"
+        }
+    },
+    {
+        "model": "crudapp.user",
+        "pk": 3,
+        "fields": {
+            "username": "charlie",
+            "email": "charlie@example.com"
+        }
+    }
+]

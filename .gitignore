@@ -1,0 +1,6 @@
+# Ignore pycache folders
+crudapp/__pycache__/
+crudproject/__pycache__/
+
+# Ignore SQLite database file
+db.sqlite3
